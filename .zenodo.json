@@ -1,0 +1,49 @@
+{
+  "title": "Analysis code for: Machine learning for early dengue diagnosis using routine clinical and haematological parameters: evidence from a prospective outbreak cohort in Munshiganj, Bangladesh",
+  "description": "Complete Python analysis pipeline, trained model objects, and all figures for the manuscript submitted to PLOS Neglected Tropical Diseases. Six supervised classifiers (LR, KNN, SVM, RF, XGBoost, LightGBM) are trained on 1,018 patient records from Munshiganj, Bangladesh. SHAP interpretability identifies platelet count and WBC count as the dominant predictors.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Rahman, Md Rafin",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh",
+      "orcid": "0009-0007-5366-0175"
+    },
+    {
+      "name": "Rose, Jafren Iqbal",
+      "affiliation": "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
+    },
+    {
+      "name": "Rahman, Md Jubayar",
+      "affiliation": "Roboway Technologies, Dhaka, Bangladesh"
+    },
+    {
+      "name": "Rahman, Md Rofiqur",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+    }
+  ],
+  "keywords": [
+    "dengue fever",
+    "machine learning",
+    "SHAP",
+    "platelet count",
+    "white blood cell count",
+    "XGBoost",
+    "Bangladesh",
+    "clinical decision support",
+    "SMOTE",
+    "haematological diagnosis",
+    "PLOS Neglected Tropical Diseases"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://data.mendeley.com/datasets/673swz9tb4/1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "language": "eng",
+  "notes": "Add your ORCID iD for co-authors once available. Replace XXXXXXX placeholder in README.md with the real Zenodo DOI once reserved."
+}

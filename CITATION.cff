@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software and the paper."
+type: software
+title: "Analysis code for: Machine learning for early dengue diagnosis using routine clinical and haematological parameters"
+authors:
+  - family-names: "Rahman"
+    given-names: "Md Rafin"
+    orcid: "https://orcid.org/0009-0007-5366-0175"
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+    email: "mrahman@ideshi.org"
+  - family-names: "Rose"
+    given-names: "Jafren Iqbal"
+    affiliation: "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
+  - family-names: "Rahman"
+    given-names: "Md Jubayar"
+    affiliation: "Roboway Technologies, Dhaka, Bangladesh"
+  - family-names: "Rahman"
+    given-names: "Md Rofiqur"
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+date-released: "2026-06-15"
+license: MIT
+repository-code: "https://github.com/RafinRahman/dengue-ml-diagnosis"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - dengue
+  - machine learning
+  - SHAP
+  - Bangladesh
+  - XGBoost
+  - haematology
+  - clinical decision support
+preferred-citation:
+  type: article
+  title: "Machine learning for early dengue diagnosis using routine clinical and haematological parameters: evidence from a prospective outbreak cohort in Munshiganj, Bangladesh"
+  authors:
+    - family-names: "Rahman"
+      given-names: "Md Rafin"
+    - family-names: "Rose"
+      given-names: "Jafren Iqbal"
+    - family-names: "Rahman"
+      given-names: "Md Jubayar"
+    - family-names: "Rahman"
+      given-names: "Md Rofiqur"
+  journal: "PLOS Neglected Tropical Diseases"
+  year: 2026
+  status: "under-review"

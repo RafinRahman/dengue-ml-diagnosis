@@ -1,0 +1,7 @@
+,Accuracy (%),Precision (%),Recall (%),F1-Score (%),F1-Weighted (%),AUC-ROC
+Logistic Regression,98.04,99.28,97.86,98.56,98.05,0.9941
+K-Nearest Neighbors,98.04,98.57,98.57,98.57,98.04,0.9879
+Support Vector Machine,98.53,99.28,98.57,98.92,98.53,0.992
+Random Forest,99.02,99.29,99.29,99.29,99.02,0.9891
+XGBoost,99.02,99.29,99.29,99.29,99.02,0.9925
+LightGBM,99.02,99.29,99.29,99.29,99.02,0.996
